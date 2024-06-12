@@ -1,4 +1,4 @@
-# 1-hour-Pacman-in-JavaScript-
+## 1-hour-Pacman-in-JavaScript-
 
 https://www.youtube.com/watch?v=q2ViNbRwr5U 
 
@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/RodrigoMvs123/1-hour-Pacman-in-JavaScript-/mai
 
 https://github.com/RodrigoMvs123/1-hour-Pacman-in-JavaScript-/blame/main/README.md
 
+## Source Code
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -27,7 +29,9 @@ index.html
     <h3>Score:<span id="level"></span></h3>
 </body>
 </html>
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -87,7 +91,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 })
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors
@@ -108,7 +114,9 @@ style.css
     border: solid red;
     box-sizing: border-box;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -172,7 +180,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     createBoard()
 })
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors
@@ -193,7 +203,9 @@ style.css
     width: 20px;
     height: 20px;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -262,7 +274,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     console.log(squares)
 })
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -335,7 +349,9 @@ document.addEventListener('DOMContentLoaded', () => {
     createBoard()
 
 })
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors
@@ -392,7 +408,9 @@ style.css
 .scared-ghost {
     background-color: aquamarine;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -481,7 +499,9 @@ createBoard()
     squares[pacmanCurrentIndex].classList.add('pac-man')
 
 })
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors
@@ -539,7 +559,9 @@ style.css
 .scared-ghost {
     background-color: aquamarine;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -790,5 +812,5 @@ createBoard()
         }
     }
 })
-
+```
 
